@@ -1,0 +1,10 @@
+#header{
+    width: 930px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#header>h3{
+    margin-top: 40px;
+}
